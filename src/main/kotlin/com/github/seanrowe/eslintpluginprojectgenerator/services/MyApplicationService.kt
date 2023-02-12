@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.seanrowe.eslintpluginprojectgenerator.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.seanrowe.eslintpluginprojectgenerator.MyBundle
 
 class MyApplicationService {
 
